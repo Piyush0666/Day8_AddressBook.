@@ -1,7 +1,7 @@
 package com.bridgelabz.AddressBook.Day8;
 
 import java.util.Scanner;
-public class AddressBookUc4 extends AddressBookUc2 {
+public class AddressBookUc4 extends AddressBookUc2{
     static Scanner obj = new Scanner(System.in);
 
     public void deleteData() {
